@@ -2,4 +2,4 @@ testRepo_local file
 
 updated at server
 
-123456
+test1_remote updated file.
