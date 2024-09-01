@@ -2,4 +2,4 @@ testRepo_local file
 
 updated at server
 
-test2_remote updated
+test1_remote & test2_remote updated
